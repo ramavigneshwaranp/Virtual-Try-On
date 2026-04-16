@@ -1,0 +1,12 @@
+{
+  "name": "VogueAI Virtual Try-On",
+  "description": "An AI-powered fashion assistant that analyzes your body structure and facial features to suggest perfectly tailored dresses, providing realistic visualizations and customization options.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Image Analysis",
+    "Generative Fashion Suggestion",
+    "Virtual Try-On Visualization"
+  ]
+}
